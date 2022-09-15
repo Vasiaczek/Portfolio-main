@@ -216,7 +216,9 @@ body {
 }
 /* Adding a DZIADY button*/
 #dziady {
-    position: 1000px 1000px;
+    position: relative;
+    left: 100px;
+    top: 350px;
     background-color: rgb(0, 174, 174); 
     border-color: rgb(50, 17, 17);
     color: white;
